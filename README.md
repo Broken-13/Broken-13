@@ -1,10 +1,12 @@
 # Hi there! I'am a Front-and Developer
+## My contacts:
+![Telegram](https://img.shields.io/badge/Telegram-ffffff??style=flat&logo=Telegram&logoColor=1E90FF)
 
 ## Technology stack:
 ### Languages:
 ![HTML](https://img.shields.io/badge/HTML5-000000??style=flat&logo=HTML5&logoColor=FF4500)
 ![CSS3](https://img.shields.io/badge/CSS3-000000??style=flat&logo=CSS3&logoColor=1E90FF)
-![JS](https://img.shields.io/badge/JavaScript-000000??style=social&logo=JavaScript&logoColor=FFFF00)
+![JS](https://img.shields.io/badge/JavaScript-000000??style=flat&logo=JavaScript&logoColor=FFFF00)
 
 ### Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-000000??style=flat&logo=GITHUB&logoColor=FFFFFF)
