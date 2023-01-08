@@ -1,6 +1,6 @@
 # Hi there! I'am a Front-and Developer
 ## My contacts:
-![Telegram](https://img.shields.io/badge/Telegram-ffffff??style=flat&logo=Telegram&logoColor=1E90FF)
+![Telegram](https://img.shields.io/badge/Telegram-ffffff??style=for-the-badge&logo=Telegram&logoColor=1E90FF)
 
 ## Technology stack:
 ### Languages:
