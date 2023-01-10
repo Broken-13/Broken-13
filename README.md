@@ -22,8 +22,6 @@
   <summary>📋&nbsp;Status:</summary>
  </br>
  <div display='flex'>
-  <img align="left" alt="Broken-13's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MSDipper&include_all_commits=true&show_icons=true&theme=dark"/></div>
+  <img align="left" alt="Broken-13's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Broken-13&include_all_commits=true&show_icons=true&theme=dark"/></div>
   <img align="left" alt="Broken-13's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broken-13&langs_count=8&layout=compact&theme=dark"/>
 </details>
-
-![MSDipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broken-13&bg_color=141321&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
